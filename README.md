@@ -1,1 +1,1 @@
-<b>Laravel JWT Token with Api Version</b>
+<h1>Laravel JWT API</h1>
